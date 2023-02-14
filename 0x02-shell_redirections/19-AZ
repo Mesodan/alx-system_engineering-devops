@@ -1,0 +1,2 @@
+#!/bin/bash
+replace < "A" "C" > 'Z' 'e' | ./19-AZ
