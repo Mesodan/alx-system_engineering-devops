@@ -1,2 +1,2 @@
 #!/bin/bash
-tr < "A" "C" > 'Z' 'e' | ./19-AZ
+tr  "A" "C" | 'Z' 'e' 
